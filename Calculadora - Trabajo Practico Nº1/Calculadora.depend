@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1586389945 source:c:\users\impre\desktop\libreria\nueva carpeta\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1586389217 c:\users\impre\desktop\libreria\nueva carpeta\calculadora\funciones.h
+
+1586389369 c:\users\impre\desktop\libreria\nueva carpeta\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1586390191 source:c:\users\impre\desktop\libreria\nueva carpeta\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587175555 source:c:\users\impre\desktop\libreria\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1587175555 c:\users\impre\desktop\libreria\calculadora\funciones.h
+
+1586652890 source:c:\users\impre\desktop\libreria\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
